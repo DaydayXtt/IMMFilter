@@ -7,6 +7,6 @@
 - CV模型弯道不好、CTRV模型直线比较干扰。IMM加权平均一下。
 
 # 缺点：
-- 有一个超参数：[模型转移矩阵](https://github.com/DaydayXtt/IMMFilter/main.py.h#L91)。但还好不太敏感
+- 有一个超参数：[模型转移矩阵](https://github.com/DaydayXtt/IMMFilter/blob/main/main.py#L91)。但还好不太敏感
 
-装修中...
+Decorating...
